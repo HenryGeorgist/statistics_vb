@@ -1,0 +1,4 @@
+C:\Examples\statistics_vb\Statistics_vb\bin\Debug\netstandard1.4\Statistics_vb.deps.json
+C:\Examples\statistics_vb\Statistics_vb\obj\Debug\netstandard1.4\Statistics_vb.vbprojAssemblyReference.cache
+C:\Examples\statistics_vb\Statistics_vb\obj\Debug\netstandard1.4\Statistics_vb.vbproj.CoreCompileInputs.cache
+C:\Examples\statistics_vb\Statistics_vb\obj\Debug\netstandard1.4\Statistics_vb.AssemblyInfo.vb
